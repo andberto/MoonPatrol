@@ -9,7 +9,7 @@ Moon Patrol</h1>
   <ol>
     <li><a href="#intro"> ➤ Intro</a></li>
     <li><a href="#rules"> ➤ Gameplay</a></li>
-    <li><a href="#solve"> ➤ Preview</a></li>
+    <li><a href="#preview"> ➤ Preview</a></li>
   </ol>
 </details>
 <h2 id="intro"> :bomb: Intro</h2>
